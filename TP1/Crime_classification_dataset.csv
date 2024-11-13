@@ -1,0 +1,431 @@
+Type_de_crime,Région,Période_de_la_journée,Gravité,Résolution
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Agression,PACA,Après-midi,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Agression,PACA,Matin,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Agression,PACA,Nuit,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Nuit,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Fraude,Bretagne,Soir,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,Arrêté
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Nuit,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Cambriolage,PACA,Nuit,Faible,En cours
+Cambriolage,PACA,Nuit,Faible,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Agression,PACA,Nuit,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Fraude,Bretagne,Soir,Faible,En cours
+Agression,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Vol,PACA,Soir,Faible,Arrêté
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Agression,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Soir,Faible,Arrêté
+Agression,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Cambriolage,PACA,Nuit,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,En cours
+Agression,PACA,Matin,Faible,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Agression,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Agression,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,PACA,Soir,Faible,Arrêté
+Agression,PACA,Soir,Faible,Arrêté
+Agression,PACA,Après-midi,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,PACA,Soir,Faible,Arrêté
+Agression,PACA,Nuit,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Cambriolage,PACA,Nuit,Faible,En cours
+Agression,PACA,Matin,Faible,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Agression,PACA,Nuit,Faible,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Agression,PACA,Soir,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Cambriolage,PACA,Nuit,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Agression,PACA,Après-midi,Faible,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Agression,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Agression,PACA,Soir,Faible,Arrêté
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Agression,PACA,Matin,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Soir,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Île-de-France,Nuit,Élevée,En cours
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,Arrêté
+Agression,PACA,Soir,Faible,Arrêté
+Vol,PACA,Soir,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Agression,PACA,Nuit,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Agression,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,Bretagne,Nuit,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Cambriolage,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Agression,PACA,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Nuit,Faible,En cours
+Fraude,Occitanie,Soir,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Nuit,Élevée,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Fraude,Bretagne,Soir,Faible,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Fraude,Bretagne,Soir,Faible,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Agression,PACA,Matin,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Soir,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Agression,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Agression,PACA,Soir,Faible,Arrêté
+Vol,PACA,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Fraude,Occitanie,Soir,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,Arrêté
+Fraude,Occitanie,Soir,Faible,Arrêté
+Agression,Bretagne,Nuit,Faible,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Nuit,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Île-de-France,Nuit,Élevée,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,Bretagne,Nuit,Élevée,En cours
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Fraude,Bretagne,Soir,Faible,En cours
+Cambriolage,Bretagne,Nuit,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Vol,Île-de-France,Nuit,Élevée,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Fraude,Auvergne-Rhône-Alpes,Après-midi,Élevée,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Agression,PACA,Matin,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
+Agression,Auvergne-Rhône-Alpes,Après-midi,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Agression,PACA,Nuit,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Nuit,Élevée,En cours
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,En cours
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Vol,Île-de-France,Nuit,Faible,Arrêté
+Agression,Bretagne,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Soir,Faible,En cours
+Fraude,Auvergne-Rhône-Alpes,Matin,Élevée,En cours
+Fraude,Nouvelle-Aquitaine,Matin,Faible,Arrêté
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,PACA,Soir,Faible,Arrêté
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Vol,Île-de-France,Nuit,Élevée,En cours
+Agression,PACA,Matin,Faible,En cours
+Cambriolage,PACA,Matin,Faible,En cours
+Agression,PACA,Après-midi,Faible,En cours
+Vol,Île-de-France,Après-midi,Faible,Arrêté
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Cambriolage,Nouvelle-Aquitaine,Matin,Faible,En cours
+Agression,Occitanie,Après-midi,Faible,Arrêté
+Agression,PACA,Matin,Faible,En cours
+Vol,Nouvelle-Aquitaine,Après-midi,Élevée,En cours
+Vol,PACA,Soir,Faible,Arrêté
+Vol,Île-de-France,Matin,Élevée,Arrêté
+Vol,Île-de-France,Après-midi,Faible,En cours
+Vol,Île-de-France,Soir,Faible,Arrêté
+Agression,Bretagne,Nuit,Faible,En cours
+Cambriolage,Île-de-France,Matin,Faible,Arrêté
+Agression,Bretagne,Nuit,Faible,En cours
+Fraude,Bretagne,Soir,Faible,En cours
+Vol,Nouvelle-Aquitaine,Matin,Élevée,En cours
