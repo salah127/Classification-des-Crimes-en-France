@@ -96,7 +96,7 @@ plt.show()
 ## Résultats
 
 L’arbre de décision fournit des indications sur la façon dont le type de crime, la région et la gravité influencent le moment de la journée où le crime est le plus susceptible de se produire. La précision du modèle est affichée lors de l'exécution, ainsi qu'une visualisation de l'arbre.
-![myplot]('TP1/myplot.png')
+![myplot](TP1/myplot.png)
 
 ## Licence
 
